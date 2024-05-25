@@ -47,28 +47,9 @@ export default function Weather() {
             <div className="weather-app-temperature"> 20 </div>
             <div className="weather-app-unit"> °C </div>
           </div>
-          <footer>
-            This project was coded by <em>Gabriela Saftoiu</em>, is open sourced
-            on
-            <a
-              href="https://github.com/Gabri-Sa/World-Clock-Project"
-              target="_blank"
-            >
-              {" "}
-              GitHub{" "}
-            </a>
-            and hosted on{" "}
-            <a
-              href="https://world-clock-shecodes-add-on-project.netlify.app/"
-              target="_blank"
-            >
-              {" "}
-              Netlify
-            </a>
-          </footer>
         </div>
+
         <div className="weather-forecast"></div>
-        <br />
       </main>
     </div>
   );
