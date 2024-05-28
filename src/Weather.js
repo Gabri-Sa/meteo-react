@@ -56,7 +56,7 @@ export default function Weather() {
           <em>Gabriela Saftoiu</em>{" "}
         </a>{" "}
         and is open-sourced on
-        <a href="https://github.com/Gabri-Sa/meteo-react" target="_blank">
+        <a href="https://github.com/Gabri-Sa/meteo-react" >
           {" "}
           GitHub
         </a>
