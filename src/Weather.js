@@ -53,10 +53,12 @@ export default function Weather() {
       </main>
       <footer>
         This project was coded by
-          <em>Gabriela Saftoiu</em>{" "}
-        </a>{" "}
-        and is open-sourced on
-        <a href="https://github.com/Gabri-Sa/meteo-react" >
+        <em>Gabriela Saftoiu</em> and is open-sourced on
+        <a
+          href="https://github.com/Gabri-Sa/meteo-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           {" "}
           GitHub
         </a>
