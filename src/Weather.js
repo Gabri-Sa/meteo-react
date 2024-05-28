@@ -51,6 +51,16 @@ export default function Weather() {
 
         <div className="weather-forecast"></div>
       </main>
+      <footer>
+        This project was coded by
+          <em>Gabriela Saftoiu</em>{" "}
+        </a>{" "}
+        and is open-sourced on
+        <a href="https://github.com/Gabri-Sa/meteo-react" target="_blank">
+          {" "}
+          GitHub
+        </a>
+      </footer>
     </div>
   );
 }
